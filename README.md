@@ -1,3 +1,5 @@
+![logo](https://github.com/numancr7/numancr7/blob/main/Nauman%20Chaudhary.png)
+
 <h1 align="center">Hi 👋, I'm Nauman Chaudhary</h1>
 <h3 align="center">A passionate frontend and backend developer from Pakistan</h3>
 
