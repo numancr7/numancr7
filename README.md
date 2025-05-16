@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **nomi63558@gmail.com**
 
-- ⚡ Fun fact **I am funny**
+- ⚡ Fun fact **I am very awkward.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
