@@ -1,63 +1,79 @@
-<!-- Banner -->
 <p align="center">
-  <img src="https://github.com/numancr7/numancr7/blob/main/Nauman%20Chaudhary.png" alt="Nauman Chaudhary Banner" />
+  <img src="https://github.com/numancr7/numancr7/blob/main/Nauman%20Chaudhary.png" alt="logo" height="150" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Nauman Chaudhary</h1>
-<h3 align="center">Frontend & Backend Developer | DevOps Learner | AI Enthusiast</h3>
+<h3 align="center">💻 A passionate Web Developer & AI/ML Engineer from Pakistan</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=numancr7&label=Profile%20views&color=0e75b6&style=flat" alt="numancr7" />
+  <img src="https://komarev.com/ghpvc/?username=numancr7&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" />
+---
 
-### 👨‍💻 About Me
-- 🌱 Currently diving into **DevOps**, **Deep Learning**, and **Neural Networks**
-- 💬 Ask me about **Web Development**, **MERN Stack**, **SQL/NoSQL**
-- 📫 Reach me at: **nomi63558@gmail.com**
-- ⚡ Fun fact: *I break things just to fix them better!*
+### 🚀 About Me
+
+- 🔭 Currently working on [**Failure Mode Effect Analysis (FMEA)**](https://github.com/numancr7/fmea)  
+- 🌱 Learning **DevOps, Deep Learning, and Neural Networks**  
+- 💼 Building my [**Portfolio Dashboard**](https://github.com/numancr7/portfolio_dashboard)  
+- 🧠 Interested in **Web Development, MERN Stack, Next.js, and AI/ML**  
+- 🧰 All my projects: [github.com/numancr7](https://github.com/numancr7)  
+- 📫 Reach me at **nomi63558@gmail.com**  
+- 😄 Fun fact: _I think I’m funny, maybe too funny..._ 😄  
 
 ---
 
-### 🧰 Tech Stack
+### 🧩 Featured Projects
 
-**Languages**  
-![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python) 
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B) 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-
-**Frontend**  
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3) 
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react) 
-![Tailwind](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=tailwind-css)
-
-**Backend & Database**  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) 
-![Express](https://img.shields.io/badge/-Express-000?style=flat&logo=express)  
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb) 
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql) 
-![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server)
+| Project | Description | Stack |
+|--------|-------------|--------|
+| [Portfolio Dashboard](https://github.com/numancr7/portfolio_dashboard) | Admin dashboard to manage skills, projects, and timeline | Next.js, MongoDB, Tailwind |
+| [FMEA](https://github.com/numancr7/fmea) | Failure Mode and Effects Analysis app for engineering tasks | Python, Streamlit |
+| [CV Maker](https://github.com/numancr7/cv-maker) | Create and export resumes with custom templates | React, Supabase |
+| [Blog App](https://github.com/numancr7/blog-app) | Full-stack blogging app | React, Laravel |
 
 ---
 
-### 🚀 Featured Projects
-
-| Project | Description | Link |
-|--------|-------------|------|
-| 📝 **Blog App** | Full-stack blog platform using MERN | [View](https://github.com/numancr7/blog-app) |
-| 📦 **E-Commerce Store** | React + Node + Stripe checkout | [View](https://github.com/numancr7/ecommerce-store) |
-| 🤖 **AI Chatbot** | Chatbot using Python & NLP | [View](https://github.com/numancr7/ai-chatbot) |
-
----
-
-### 📊 GitHub Stats
+### 🛠️ Languages & Tools
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=numancr7&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=numancr7&theme=radical" alt="GitHub Streak"/>
+  <!-- Web -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" title="HTML" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" title="CSS" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" title="JavaScript" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" title="TypeScript" />
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" title="Tailwind CSS" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" title="React" />
+  <img src="https://reactnative.dev/img/header_logo.svg" width="40" title="React Native" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" width="40" title="Next.js" />
+
+  <!-- Backend -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" title="Express.js" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" title="Node.js" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" title="Python" />
+
+  <!-- Databases -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" title="MongoDB" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" title="MySQL" />
+  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40" title="MS SQL" />
+
+  <!-- AI/ML -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" title="Scikit-learn" />
+
+  <!-- DevOps -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" title="Docker" />
+  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40" title="Kubernetes" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" title="AWS" />
+</p>
+
+---
+
+### 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/nouman-raza-3b93b92a7" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+  </a>
 </p>
 
 ---
@@ -65,16 +81,21 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=numancr7&theme=monokai&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=numancr7&theme=gruvbox" alt="GitHub Trophies" />
 </p>
 
 ---
 
-### 📫 Connect With Me
+### 📊 GitHub Stats
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nouman-raza-3b93b92a7/)
-[![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:nomi63558@gmail.com)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=numancr7&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=numancr7&theme=tokyonight" alt="GitHub Streak" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=numancr7&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 
 ---
 
-> _“Passion drives me. Code defines me.”_
+> “Consistency is the key to mastery.” 🚀
