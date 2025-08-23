@@ -18,7 +18,7 @@
 - 💼 Building my [**Portfolio Dashboard**](https://github.com/numancr7/portfolio_dashboard)  
 - 🧠 Interested in **Web Development, MERN Stack, Next.js, and AI/ML**  
 - 🧰 All my projects: [github.com/numancr7](https://github.com/numancr7)  
-- 📫 Reach me at **nomi63558@gmail.com**  
+- 📫 Reach me at **nauman@dartsol.com**  
 - 😄 Fun fact: _I think I’m funny, maybe too funny..._ 😄  
 
 ---
@@ -71,7 +71,7 @@
 ### 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/nouman-raza-3b93b92a7" target="_blank">
+  <a href="https://www.linkedin.com/in/nauman-chaudhary-3b93b92a7/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
   </a>
 </p>
