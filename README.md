@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Nauman Chaudhary</h1>
-<h3 align="center">💻 A passionate Web Developer & AI/ML Engineer from Pakistan</h3>
+<h3 align="center">🚀 Founder & CEO of <a href="https://dartsol.com" target="_blank">Dartsol</a> | Full-Stack Developer | AI & Automation Engineer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=numancr7&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
@@ -11,30 +11,29 @@
 
 ---
 
-### 🚀 About Me
+### 🌟 About Me  
 
-- 🔭 Currently working on [**Failure Mode Effect Analysis (FMEA)**](https://github.com/numancr7/fmea)  
-- 🌱 Learning **DevOps, Deep Learning, and Neural Networks**  
-- 💼 Building my [**Portfolio Dashboard**](https://github.com/numancr7/portfolio_dashboard)  
-- 🧠 Interested in **Web Development, MERN Stack, Next.js, and AI/ML**  
-- 🧰 All my projects: [github.com/numancr7](https://github.com/numancr7)  
+- 💼 **Founder & CEO at [Dartsol](https://dartsol.com)** – helping startups & agencies build scalable web apps and AI-powered automations  
+- 🔭 Currently building **AI-driven dashboards, chatbots & automation flows**  
+- 🌱 Expanding into **DevOps, Deep Learning & Neural Networks**  
+- 🧠 Strong in **MERN Stack, Next.js, AI/ML, and Automations**  
 - 📫 Reach me at **nauman@dartsol.com**  
-- 😄 Fun fact: _I think I’m funny, maybe too funny..._ 😄  
+- ⚡ Motto: *"Tech should work — not just be a demo."*  
 
 ---
 
-### 🧩 Featured Projects
+### 🚀 Featured Projects  
 
 | Project | Description | Stack |
 |--------|-------------|--------|
-| [Portfolio Dashboard](https://github.com/numancr7/portfolio_dashboard) | Admin dashboard to manage skills, projects, and timeline | Next.js, MongoDB, Tailwind |
-| [FMEA](https://github.com/numancr7/fmea) | Failure Mode and Effects Analysis app for engineering tasks | Python, Streamlit |
-| [CV Maker](https://github.com/numancr7/cv-maker) | Create and export resumes with custom templates | React, Supabase |
+| [Portfolio Dashboard](https://github.com/numancr7/portfolio_dashboard) | Admin dashboard to manage skills, projects & timeline | Next.js, MongoDB, Tailwind |
+| [FMEA](https://github.com/numancr7/fmea) | Failure Mode and Effects Analysis tool for engineering | Python, Streamlit |
+| [CV Maker](https://github.com/numancr7/cv-maker) | Create & export resumes with custom templates | React, Supabase |
 | [Blog App](https://github.com/numancr7/blog-app) | Full-stack blogging app | React, Laravel |
 
 ---
 
-### 🛠️ Languages & Tools
+### 🛠️ Tech Stack  
 
 <p align="center">
   <!-- Web -->
@@ -68,7 +67,7 @@
 
 ---
 
-### 🌐 Connect with Me
+### 🌐 Connect With Me  
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nauman-chaudhary-3b93b92a7/" target="_blank">
@@ -78,7 +77,7 @@
 
 ---
 
-### 🏆 GitHub Trophies
+### 🏆 GitHub Trophies  
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=numancr7&theme=gruvbox" alt="GitHub Trophies" />
@@ -86,7 +85,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=numancr7&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
@@ -98,4 +97,4 @@
 
 ---
 
-> “Consistency is the key to mastery.” 🚀
+> *"Consistency is the key to mastery — and tech should always deliver results."* 🚀
