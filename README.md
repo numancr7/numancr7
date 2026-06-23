@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/numancr7/numancr7/blob/main/Nauman%20Chaudhary.png" height="120" />
+<img src="https://github.com/numancr7/numancr7/blob/main/herogit.png" height="220" />
 
 <br/>
 
