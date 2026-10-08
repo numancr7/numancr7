@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/numancr7/numancr7/blob/main/herogit.png" height="220" />
+<img src="https://github.com/numancr7/numancr7/blob/main/IMG_3401.PNG" height="220" />
 
 <br/>
 
